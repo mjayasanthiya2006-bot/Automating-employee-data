@@ -1,7 +1,7 @@
 import openpyxl
 
 # Excel file name
-file = "employee_data.xlsx"
+file = "employee data.xlsx"
 
 # Load Excel file
 try:
