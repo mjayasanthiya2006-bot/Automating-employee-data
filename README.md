@@ -1,4 +1,4 @@
-# Automating Employee Data Management System
+# Automating Employee Data 
 
 ## Introduction
 The Automating Employee Data Management System is a simple application developed using Python. 
